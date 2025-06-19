@@ -142,7 +142,7 @@ const sections = [
             <li><a href="https://platform.openai.com/docs" className="underline text-blue-600" target="_blank">OpenAI API docs</a></li>
             <li><a href="https://docs.langchain.com/" className="underline text-blue-600" target="_blank">LangChain documentation</a></li>
             <li><a href="https://learnprompting.org/" className="underline text-blue-600" target="_blank">Introduction to Prompt Engineering</a></li>
-            <li>YouTube: "How to Build an AI Chatbot with GPT and LangChain"</li>
+            <li>YouTube: &quot;How to Build an AI Chatbot with GPT and LangChain&quot;</li>
           </ul>
         </div>
       </div>
@@ -168,7 +168,7 @@ const sections = [
             <li><a href="https://firebase.flutter.dev/" className="underline text-blue-600" target="_blank">FlutterFire Documentation</a></li>
             <li><a href="https://pub.dev/packages/video_player" className="underline text-blue-600" target="_blank">video_player plugin</a></li>
             <li><a href="https://pub.dev/packages/flutter_webrtc" className="underline text-blue-600" target="_blank">Flutter WebRTC (for live streaming)</a></li>
-            <li>YouTube: "Flutter Video App with Firebase Upload and Playback"</li>
+            <li>YouTube: &quot;Flutter Video App with Firebase Upload and Playback&quot;</li>
           </ul>
         </div>
       </div>
@@ -193,7 +193,7 @@ const sections = [
           <ul className="list-disc pl-6 text-[#22223b] text-lg">
             <li><a href="https://nextjs.org/learn" className="underline text-blue-600" target="_blank">Next.js Official Docs</a></li>
             <li><a href="https://github.com/vercel/next.js/tree/canary/examples" className="underline text-blue-600" target="_blank">Vercel Next.js Examples</a></li>
-            <li>YouTube: "Fullstack App with Next.js and Firebase"</li>
+            <li>YouTube: &quot;Fullstack App with Next.js and Firebase&quot;</li>
           </ul>
         </div>
       </div>
