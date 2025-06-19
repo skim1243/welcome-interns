@@ -62,6 +62,7 @@ const sections = [
             Download Figma
           </a>
         </div>
+
         <div className="text-lg text-[#22223b] p-4">
           Figma is our go-to for reviewing UI/UX designs, collaborating on prototypes, and leaving feedback.
         </div>
@@ -216,7 +217,7 @@ const sections = [
           <h3 className="text-2xl font-semibold text-[#457b9d] mb-2">Resources</h3>
           <ul className="list-disc pl-6 text-[#22223b] text-lg">
             <li>YouTube: RESTful API Crash Course</li>
-            <li><a href="https://www.postman.com/resources/videos/" className="underline text-blue-600" target="_blank">Postman API Fundamentals</a></li>
+            <li><a href="https://learning.postman.com/" className="underline text-blue-600" target="_blank">Postman API Fundamentals</a></li>
             <li><a href="https://pub.dev/packages/http" className="underline text-blue-600" target="_blank">Flutter HTTP Package</a></li>
             <li><a href="https://nextjs.org/docs/api-routes/introduction" className="underline text-blue-600" target="_blank">Next.js API routes</a></li>
           </ul>
@@ -270,7 +271,10 @@ const sections = [
         </div>
         <h1 className="text-6xl font-extrabold text-[#457b9d] mb-6 text-center z-10">Congratulations! 🎉</h1>
         <p className="text-2xl text-[#22223b] mb-4 text-center z-10">You&#39;ve completed your onboarding journey.</p>
-        <p className="text-xl text-[#457b9d] text-center z-10">We&#39;re excited to see what you&#39;ll build next, and we&#39;ll use your progress to begin on your tasks on Monday! Please email skim@websiteinnovator.com anytime with any questions.</p>
+        <p className="text-xl text-[#457b9d] text-center z-10">We&#39;re excited to see what you&#39;ll build next, and we&#39;ll use your progress to begin on your tasks on Monday! 
+          <br />
+          <br />
+          Please email skim@websiteinnovator.com anytime with any questions.</p>
       </div>
     ),
   },
