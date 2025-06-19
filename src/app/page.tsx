@@ -115,7 +115,7 @@ const sections = [
           </a>
         </div>
         <div className="text-lg text-[#22223b] p-4">
-          We use Notion for project documentation, meeting notes, and knowledge sharing. Once logged in, you'll receive an invite to our team space.
+          We use Notion for project documentation, meeting notes, and knowledge sharing. Once logged in, you&#39;ll receive an invite to our team space.
         </div>
       </div>
     ),
