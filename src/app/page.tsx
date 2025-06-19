@@ -18,10 +18,10 @@ const sections = [
           </p>
         </div>
         <div className="text-lg leading-relaxed text-[#22223b] p-4 items-center justify-center content-center">
-          You'll get hands-on with AI chatbots, Flutter video integration, API calls, and full-stack projects.
+          You&#39;ll get hands-on with AI chatbots, Flutter video integration, API calls, and full-stack projects.
           <br />
           <br />
-          As you navigate through the resources, there is no need to understand everything. Think of them as a primer for what we'll be doing over the summer!
+          As you navigate through the resources, there is no need to understand everything. Think of them as a primer for what we&#39;ll be doing over the summer!
         </div>
       </div>
     ),
@@ -42,7 +42,7 @@ const sections = [
           </a>
         </div>
         <div className="text-lg text-[#22223b] p-4">
-          Teams is our communication hub—used for meetings, async check-ins, and quick collaboration.
+          Teams is our communication hub&#8212;used for meetings, async check-ins, and quick collaboration.
         </div>
       </div>
     ),
@@ -242,7 +242,7 @@ const sections = [
           <h3 className="text-2xl font-semibold text-[#457b9d] mb-2">Resources</h3>
           <ul className="list-disc pl-6 text-[#22223b] text-lg">
             <li><a href="https://github.com/donnemartin/system-design-primer" className="underline text-blue-600" target="_blank">System Design Primer</a></li>
-            <li>YouTube: Gaurav Sen's System Design playlist</li>
+            <li>YouTube: Gaurav Sen&#39;s System Design playlist</li>
           </ul>
         </div>
       </div>
@@ -269,8 +269,8 @@ const sections = [
           ))}
         </div>
         <h1 className="text-6xl font-extrabold text-[#457b9d] mb-6 text-center z-10">Congratulations! 🎉</h1>
-        <p className="text-2xl text-[#22223b] mb-4 text-center z-10">You've completed your onboarding journey.</p>
-        <p className="text-xl text-[#457b9d] text-center z-10">We're excited to see what you'll build next, and we'll use your progress to begin on your tasks on Monday! Please email skim@websiteinnovator.com anytime with any questions.</p>
+        <p className="text-2xl text-[#22223b] mb-4 text-center z-10">You&#39;ve completed your onboarding journey.</p>
+        <p className="text-xl text-[#457b9d] text-center z-10">We&#39;re excited to see what you&#39;ll build next, and we&#39;ll use your progress to begin on your tasks on Monday! Please email skim@websiteinnovator.com anytime with any questions.</p>
       </div>
     ),
   },
