@@ -11,7 +11,7 @@ const sections = [
         <div className="flex flex-col items-center justify-center">
           
           <h1 className="text-5xl sm:text-7xl font-bold mb-4 text-[#457b9d]">
-            Hi Andrew!
+            Hello!
           </h1>
           <p className="text-2xl sm:text-3xl font-medium text-[#22223b] mt-2">
             Welcome to your first day 🎉
