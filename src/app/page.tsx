@@ -18,7 +18,7 @@ const sections = [
           </p>
         </div>
         <div className="text-lg leading-relaxed text-[#22223b] p-4 items-center justify-center content-center">
-          You&#39;ll get hands-on with AI chatbots, Flutter video integration, API calls, and full-stack projects.
+          You&#39;ll get hands-on with the full software development lifecycle, including projects like AI chatbots, Flutter apps, API calls, and full-stack web apps.
           <br />
           <br />
           As you navigate through the resources, there is no need to understand everything. Think of them as a primer for what we&#39;ll be doing over the summer!
@@ -95,7 +95,7 @@ const sections = [
           </div>
         </div>
         <div className="text-lg text-[#22223b] p-4">
-          Cursor is an AI-powered coding companion built on top of VSCode. Use either to write, debug, and deploy code across projects.
+          Cursor is an AI-powered coding companion built on top of VSCode. Use either to write, debug, and deploy code across projects. (Highly recommend Cursor!)
         </div>
       </div>
     ),
@@ -116,7 +116,7 @@ const sections = [
           </a>
         </div>
         <div className="text-lg text-[#22223b] p-4">
-          We use Notion for project documentation, meeting notes, and knowledge sharing. Once logged in, you&#39;ll receive an invite to our team space.
+          We use Notion for project documentation, meeting notes, and knowledge sharing. You&#39;ll receive an invite to our team space once you share your notion email with Seo (email your credential to skim@websiteinnovator.com).
         </div>
       </div>
     ),
@@ -144,32 +144,6 @@ const sections = [
             <li><a href="https://docs.langchain.com/" className="underline text-blue-600" target="_blank">LangChain documentation</a></li>
             <li><a href="https://learnprompting.org/" className="underline text-blue-600" target="_blank">Introduction to Prompt Engineering</a></li>
             <li>YouTube: &quot;How to Build an AI Chatbot with GPT and LangChain&quot;</li>
-          </ul>
-        </div>
-      </div>
-    ),
-  },
-  {
-    key: "flutter-video",
-    content: (
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 animate-fade-in">
-        <div>
-          <h2 className="text-4xl font-bold text-[#457b9d] mb-4">Flutter + Video Integration</h2>
-          <ul className="list-disc pl-6 text-[#22223b] text-lg">
-            <li>Firebase Storage</li>
-            <li>Video compression</li>
-            <li>Player widgets</li>
-            <li>File picker</li>
-            <li>Platform permissions</li>
-          </ul>
-        </div>
-        <div>
-          <h3 className="text-2xl font-semibold text-[#457b9d] mb-2">Resources</h3>
-          <ul className="list-disc pl-6 text-[#22223b] text-lg">
-            <li><a href="https://firebase.flutter.dev/" className="underline text-blue-600" target="_blank">FlutterFire Documentation</a></li>
-            <li><a href="https://pub.dev/packages/video_player" className="underline text-blue-600" target="_blank">video_player plugin</a></li>
-            <li><a href="https://pub.dev/packages/flutter_webrtc" className="underline text-blue-600" target="_blank">Flutter WebRTC (for live streaming)</a></li>
-            <li>YouTube: &quot;Flutter Video App with Firebase Upload and Playback&quot;</li>
           </ul>
         </div>
       </div>
